@@ -5,6 +5,7 @@
         <can_delegate>true</can_delegate>
         <description/>
         <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
         <grantable>true</grantable>
         <includes_roles/>
         <name>x_58872_needit.needit_task_user</name>
@@ -12,7 +13,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-06-06 22:37:11</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>ed9b28040f1332000d030dbce1050e48</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_58872_needit.needit_task_user</sys_name>

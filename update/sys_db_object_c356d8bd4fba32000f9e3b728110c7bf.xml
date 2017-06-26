@@ -11,27 +11,27 @@
         <delete_access>false</delete_access>
         <extension_model>class</extension_model>
         <is_extendable>false</is_extendable>
-        <label>Sh$pwd Enrollment Snapshot</label>
+        <label>Sh$sys Storage Table Alias</label>
         <live_feed_enabled>false</live_feed_enabled>
-        <name>sh$pwd_enrollment_snapshot</name>
+        <name>sh$sys_storage_table_alias</name>
         <number_ref/>
         <provider_class/>
         <read_access>false</read_access>
         <super_class/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-05-06 07:00:09</sys_created_on>
+        <sys_created_on>2017-05-16 02:54:44</sys_created_on>
         <sys_customer_update>false</sys_customer_update>
-        <sys_id>89dba1f10f6a32000d030dbce1050e57</sys_id>
+        <sys_id>c356d8bd4fba32000f9e3b728110c7bf</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Sh$pwd Enrollment Snapshot</sys_name>
+        <sys_name>Sh$sys Storage Table Alias</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_db_object_89dba1f10f6a32000d030dbce1050e57</sys_update_name>
+        <sys_update_name>sys_db_object_c356d8bd4fba32000f9e3b728110c7bf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-05-06 07:00:09</sys_updated_on>
+        <sys_updated_on>2017-05-16 02:54:44</sys_updated_on>
         <update_access>false</update_access>
         <user_role/>
         <ws_access>false</ws_access>
